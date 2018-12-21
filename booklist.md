@@ -1,7 +1,9 @@
-<title>Andrew's Booklist</title>
+<head><title>Andrew's Booklist</title></head>
 # **My Booklist**
 ## Curently Reading
 * _The Bogleheads' Guide to Investing (Second Edition)_, Lindauer, Larimore & LeBoeuf
+## Up Next
+* _The Pioneers_, James Fenimore Cooper
 ## 2018
 * _Riders of the Purple Sage_, Zane Grey
 * _The Millionaire Next Door_, Stanley & Danko

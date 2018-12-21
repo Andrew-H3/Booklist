@@ -1,1 +1,1 @@
-python -m markdown booklist.md > booklist.html
+python -m markdown booklist.md > index.html

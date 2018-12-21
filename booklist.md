@@ -1,3 +1,4 @@
+<title>Andrew's Booklist</title>
 # **My Booklist**
 ## Curently Reading
 * _The Bogleheads' Guide to Investing (Second Edition)_, Lindauer, Larimore & LeBoeuf
